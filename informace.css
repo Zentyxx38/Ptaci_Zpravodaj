@@ -1,0 +1,55 @@
+.top{
+    background-color: rgb(196, 166, 127);
+    border: 10px solid rgb(182, 106, 7);
+    border-radius: 10px;
+    padding:20px;
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Hledat{
+    width: 150px;
+    height: 30px;
+    background-color: bisque;
+    border-radius: 20px;
+    border: 5px solid grey;
+}
+.search{
+    margin: auto;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.link{
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nazev{
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.mid{
+    display: flex;     
+      padding: 20px;
+      background-color: rgb(139, 216, 240);
+      border: 5px solid white;
+  }    
+  
+  .text-mid{
+      font-size: 30px;
+  
+      
+
+    
+      
+  
+  }
+  .bottom{
+      background-color: rgb(196, 166, 127);
+      border: 10px solid rgb(182, 106, 7);
+      border-radius: 10px;
+      padding: 20px;;
+      font-size: 20px;
+}
